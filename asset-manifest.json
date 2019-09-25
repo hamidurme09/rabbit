@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rabbit/static/css/main.f05016c4.chunk.css",
+    "main.js": "/rabbit/static/js/main.8012a1d6.chunk.js",
+    "main.js.map": "/rabbit/static/js/main.8012a1d6.chunk.js.map",
+    "runtime-main.js": "/rabbit/static/js/runtime-main.45f46293.js",
+    "runtime-main.js.map": "/rabbit/static/js/runtime-main.45f46293.js.map",
+    "static/js/2.96af93cd.chunk.js": "/rabbit/static/js/2.96af93cd.chunk.js",
+    "static/js/2.96af93cd.chunk.js.map": "/rabbit/static/js/2.96af93cd.chunk.js.map",
+    "index.html": "/rabbit/index.html",
+    "precache-manifest.dd5bc71ff075d17af814c27f5e2ef610.js": "/rabbit/precache-manifest.dd5bc71ff075d17af814c27f5e2ef610.js",
+    "service-worker.js": "/rabbit/service-worker.js",
+    "static/css/main.f05016c4.chunk.css.map": "/rabbit/static/css/main.f05016c4.chunk.css.map"
+  }
+}
